@@ -41,6 +41,7 @@ import es.unex.asee.frojomar.asee_ses.repository.networking.NetworkUtils;
 
 /**
  * A login screen that offers login via email/password.
+ * @TODO New functionality for testing
  */
 public class LoginActivity extends NavDrawerActivity {
 
